@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "rank": 1,
+      "bib": 37,
+      "name": "LAEGREID Sturla Holm",
+      "nationality": "NORWAY",
+      "shooting": "0+0+0+0",
+      "shootingArr": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "shootingTotal": 0,
+      "result": "48:57.0"
+    },
+    {
+      "rank": 2,
+      "bib": 26,
+      "name": "BOE Johannes Thingnes",
+      "nationality": "NORWAY",
+      "shooting": "1+0+0+0",
+      "shootingArr": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "shootingTotal": 1,
+      "result": "+19.6"
+    },
+    {
+      "rank": 3,
+      "bib": 47,
+      "name": "LESSER Erik",
+      "nationality": "GERMANY",
+      "shooting": "0+1+0+0",
+      "shootingArr": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "shootingTotal": 1,
+      "result": "+1:03.6"
+    },
+    {
+      "rank": 4,
+      "bib": 23,
+      "name": "FILLON MAILLET Quentin",
+      "nationality": "FRANCE",
+      "shooting": "0+1+0+0",
+      "shootingArr": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "shootingTotal": 1,
+      "result": "+1:05.9"
+    },
+    {
+      "rank": 5,
+      "bib": 25,
+      "name": "MORAVEC Ondrej",
+      "nationality": "CZECH REPUBLIC",
+      "shooting": "0+0+0+0",
+      "shootingArr": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "shootingTotal": 0,
+      "result": "+1:06.9"
+    }
+  ]
+}
