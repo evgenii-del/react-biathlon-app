@@ -14,6 +14,19 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+### `json-server --watch data/db.json --port 8000`
+
+Start JSON Server
+
+### `yarn lint`
+
+ESLint statically analyzes your code to quickly find problems.
+
+### `yarn lint:fix`
+
+ESLint try to fix as many issues as possible.
+The fixes are made to the actual files themselves and only the remaining unfixed issues are output.
+
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.\

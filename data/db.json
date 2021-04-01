@@ -2,78 +2,228 @@
   "data": [
     {
       "rank": 1,
-      "bib": 37,
-      "name": "LAEGREID Sturla Holm",
-      "nationality": "NORWAY",
-      "shooting": "0+0+0+0",
-      "shootingArr": [
-        0,
-        0,
-        0,
-        0
-      ],
-      "shootingTotal": 0,
-      "result": "48:57.0"
-    },
-    {
-      "rank": 2,
-      "bib": 26,
-      "name": "BOE Johannes Thingnes",
-      "nationality": "NORWAY",
-      "shooting": "1+0+0+0",
-      "shootingArr": [
-        1,
-        0,
-        0,
-        0
-      ],
-      "shootingTotal": 1,
-      "result": "+19.6"
-    },
-    {
-      "rank": 3,
       "bib": 47,
       "name": "LESSER Erik",
       "nationality": "GERMANY",
       "shooting": "0+1+0+0",
-      "shootingArr": [
-        0,
-        1,
-        0,
-        0
-      ],
       "shootingTotal": 1,
-      "result": "+1:03.6"
+      "result": "1:03.6"
     },
     {
-      "rank": 4,
+      "rank": 2,
       "bib": 23,
       "name": "FILLON MAILLET Quentin",
       "nationality": "FRANCE",
       "shooting": "0+1+0+0",
-      "shootingArr": [
-        0,
-        1,
-        0,
-        0
-      ],
       "shootingTotal": 1,
-      "result": "+1:05.9"
+      "result": "1:05.9"
     },
     {
-      "rank": 5,
+      "rank": 3,
       "bib": 25,
       "name": "MORAVEC Ondrej",
       "nationality": "CZECH REPUBLIC",
       "shooting": "0+0+0+0",
-      "shootingArr": [
-        0,
-        0,
-        0,
-        0
-      ],
       "shootingTotal": 0,
-      "result": "+1:06.9"
+      "result": "1:06.9"
+    },
+    {
+      "rank": 4,
+      "bib": 30,
+      "name": "SAMUELSSON Sebastian",
+      "nationality": "SWEDEN",
+      "shooting": "1+1+0+0",
+      "shootingTotal": 2,
+      "result": "1:31.8"
+    },
+    {
+      "rank": 5,
+      "bib": 12,
+      "name": "FAK Jakov",
+      "nationality": "SLOVENIA",
+      "shooting": "0+0+0+1",
+      "shootingTotal": 1,
+      "result": "1:32.0"
+    },
+    {
+      "rank": 6,
+      "bib": 15,
+      "name": "JACQUELIN Emilien",
+      "nationality": "FRANCE",
+      "shooting": "1+1+0+0",
+      "shootingTotal": 2,
+      "result": "2:02.1"
+    },
+    {
+      "rank": 7,
+      "bib": 77,
+      "name": "GUIGONNAT Antonin",
+      "nationality": "FRANCE",
+      "shooting": "0+0+1+0",
+      "shootingTotal": 1,
+      "result": "2:13.6"
+    },
+    {
+      "rank": 8,
+      "bib": 6,
+      "name": "LOGINOV Alexander",
+      "nationality": "RUSSIA",
+      "shooting": "0+1+0+1",
+      "shootingTotal": 2,
+      "result": "2:19.2"
+    },
+    {
+      "rank": 9,
+      "bib": 19,
+      "name": "KRCMAR Michal",
+      "nationality": "CZECH REPUBLIC",
+      "shooting": "1+0+0+0",
+      "shootingTotal": 1,
+      "result": "1:31.8"
+    },
+    {
+      "rank": 10,
+      "bib": 17,
+      "name": "BOE Tarjei",
+      "nationality": "NORWAY",
+      "shooting": "0+1+0+2",
+      "shootingTotal": 3,
+      "result": "2:32.7"
+    },
+    {
+      "rank": 11,
+      "bib": 48,
+      "name": "BJOENTEGAARD Erlend",
+      "nationality": "NORWAY",
+      "shooting": "1+0+1+0",
+      "shootingTotal": 2,
+      "result": "2:42.9"
+    },
+    {
+      "rank": 12,
+      "bib": 68,
+      "name": "HARJULA Tuomas",
+      "nationality": "FINLAND",
+      "shooting": "0+1+0+0",
+      "shootingTotal": 1,
+      "result": "2:47.1"
+    },
+    {
+      "rank": 13,
+      "bib": 18,
+      "name": "DESTHIEUX Simon",
+      "nationality": "FRANCE",
+      "shooting": "1+1+0+0",
+      "shootingTotal": 2,
+      "result": "2:51.6"
+    },
+    {
+      "rank": 14,
+      "bib": 3,
+      "name": "STROLIA Vytautas",
+      "nationality": "LITHUANIA",
+      "shooting": "1+0+0+0",
+      "shootingTotal": 1,
+      "result": "2:56.3"
+    },
+    {
+      "rank": 15,
+      "bib": 8,
+      "name": "PEIFFER Arnd",
+      "nationality": "GERMANY",
+      "shooting": "0+1+1+0",
+      "shootingTotal": 2,
+      "result": "2:56.9"
+    },
+    {
+      "rank": 16,
+      "bib": 38,
+      "name": "GOW Christian",
+      "nationality": "CANADA",
+      "shooting": "0+0+0+0",
+      "shootingTotal": 0,
+      "result": "2:57.0"
+    },
+    {
+      "rank": 17,
+      "bib": 16,
+      "name": "SMOLSKI Anton",
+      "nationality": "BELARUS",
+      "shooting": "1+0+2+0",
+      "shootingTotal": 3,
+      "result": "3:04.0"
+    },
+    {
+      "rank": 18,
+      "bib": 24,
+      "name": "HOFER Lukas",
+      "nationality": "ITALY",
+      "shooting": "0+1+1+1",
+      "shootingTotal": 3,
+      "result": "2:56.9"
+    },
+    {
+      "rank": 19,
+      "bib": 1,
+      "name": "RASTORGUJEVS Andrejs",
+      "nationality": "LATVIA",
+      "shooting": "0+0+0+2",
+      "shootingTotal": 2,
+      "result": "3:14.9"
+    },
+    {
+      "rank": 20,
+      "bib": 52,
+      "name": "EDER Simon",
+      "nationality": "AUSTRIA",
+      "shooting": "0+1+0+0",
+      "shootingTotal": 1,
+      "result": "3:15.7"
+    },
+    {
+      "rank": 21,
+      "bib": 9,
+      "name": "DALE Johannes",
+      "nationality": "NORWAY",
+      "shooting": "1+0+0+1",
+      "shootingTotal": 2,
+      "result": "3:16.4"
+    },
+    {
+      "rank": 22,
+      "bib": 22,
+      "name": "BOCHARNIKOV Sergey",
+      "nationality": "BELARUS",
+      "shooting": "1+1+0+1",
+      "shootingTotal": 3,
+      "result": "3:25.9"
+    },
+    {
+      "rank": 23,
+      "bib": 14,
+      "name": "NORDGREN Leif",
+      "nationality": "USA",
+      "shooting": "1+0+0+0",
+      "shootingTotal": 1,
+      "result": "3:36.4"
+    },
+    {
+      "rank": 24,
+      "bib": 21,
+      "name": "ELISEEV Matvey",
+      "nationality": "RUSSIA",
+      "shooting": "1+0+0+0",
+      "shootingTotal": 1,
+      "result": "3:40.2"
+    },
+    {
+      "rank": 25,
+      "bib": 5,
+      "name": "PRYMA Artem",
+      "nationality": "UKRAINE",
+      "shooting": "2+0+0+0",
+      "shootingTotal": 2,
+      "result": "3:43.4"
     }
   ]
 }
